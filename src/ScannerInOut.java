@@ -54,6 +54,6 @@ public class ScannerInOut {
             }
         }
 
-        System.out.println("Hi " + name + ", you are " + age + " years old and have a " + gpa);
+        System.out.println("Hi " + name + ", you are " + age + " years old and have a " + gpa + " GPA!");
     }
 }
